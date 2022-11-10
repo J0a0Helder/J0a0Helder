@@ -1,7 +1,7 @@
 Hi 👋 My name is João Hélder
 ===================================================================================================================================
 
-full stack web development student
+Full stack web development student
 ----------------------------------
 
 Hello, welcome to my profile! My name is João Hélder and I am currently a full-stack web development student! I've always been passionate about technology, and my current goal is to become a Back-end developer
