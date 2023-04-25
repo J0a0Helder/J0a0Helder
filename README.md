@@ -7,7 +7,7 @@
     </p>
 </div>
 
-- 🌱 Atualmente estou estudando **Typescript**
+- 🌱 Atualmente estou estudando **Python**
 
 - 🌍 Natural de **Santa Cruz do Capibaribe - PE - Brazil**
 
