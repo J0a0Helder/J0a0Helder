@@ -7,7 +7,7 @@
     </p>
 </div>
 
-- 🌱 Atualmente estou estudando **Python**
+- 🌱 Atualmente estou estudando **Java**
 
 - 🌍 Natural de **Santa Cruz do Capibaribe - PE - Brazil**
 
